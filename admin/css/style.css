@@ -1,0 +1,233 @@
+body{
+margin: 0px;
+}
+.clear{
+
+	clear:both;
+}
+a{
+  text-decoration: none;
+}
+.header{
+ width:100%;
+ height:130px;
+ background: green;  
+
+}
+.headerinfo{
+
+  width:600px;
+  height:60px;
+  font-weight: bold;
+  font-size:40px;
+  margin: auto;
+  text-align:center;
+  padding-top:40px; 
+  
+}
+.middle{
+ width:100%;
+ background-color: white;
+}
+.menu{
+ width:100%;
+ height:100px;
+
+}
+.menulist a{
+
+color:red;	
+}
+.footer a{
+
+color:black;	
+}
+.menulist{
+ height:30px;
+ font-size:20px;
+ font-weight: bold;
+ color:red;
+ float:left;
+ margin-left:15px;
+ }
+.middiv{
+ width:450px;
+ border:1px solid green;
+ margin-left:480px;
+ margin-top:90px; 
+
+}
+.midmain{
+  width:450px; 
+  margin-left: 480px;
+}
+.midinner{
+  width:450px;
+  border:1px solid green; 
+}
+.midinnerheading{
+  width:450px;
+  height:30px;
+  font-size:25px;
+}
+.formrow{
+  margin-bottom:20px;
+  margin-top: 20px;
+  margin-left: 20px; 
+} 
+.formlabel{
+  width:170px;
+  height:20px;
+  font-size:20px;
+  float:left;
+}
+.inputform{
+  float:left;
+  font-size:12px; 
+}
+.textbox{
+   width:200px;
+   height: 20px;
+   border:1px solid black;  
+}
+
+.textarea{
+   width:200px;
+   height:100px;
+   border:1px solid black;  
+  resize:none;
+}
+.button{
+
+  font-size: 15px;
+  background-color: green;
+  width:100px;
+  height:30px;
+  border: none;
+  margin-left:100px;
+}
+
+.footer{
+ width:100%;
+ height:100px;
+ background-color:green; 
+ margin-top:183px;
+}
+.footerinfo{
+  width:600px;
+  height:30px;
+  font-weight: bold;
+  font-size:30px;
+  margin: auto;
+  text-align: center;
+  padding-top:40px; 
+ }
+.viewheading{
+ width:100%;
+ text-align: center;
+ margin-top:10px;
+ font-size:30px;
+ font-family: Arial, Verdana, Tahoma, ms sans serif;
+ /*color: #084a87;*/
+ color:green;
+ font-weight:bold;
+  } 
+.viewinfo{
+  width:100%;
+  margin-top:30px;
+}
+td{
+  text-align: center;
+}
+.viewinfomid{
+   margin: auto;
+   display:table;
+}
+.rowheading{
+ /*width:1000px;*/
+}
+.rowheading a{
+  /*text-decoration: underline;*/
+  border:1px solid green;
+  color:green;
+  padding:4px;
+}
+.rowheading a:hover{
+  background-color:black; 
+  border:1px solid green;
+  color:red;
+  padding: 14px;
+  font-size: 20px;
+}
+
+.infofix{
+text-align: center;
+width:90px;
+line-height: 30px;
+border: 1px solid black;
+float:left;
+}
+.infofix2{ 
+  text-align: center;
+  width:90px;
+  line-height: 30px;
+  border: 1px solid black;
+  float:left;
+  height:40px;
+  padding-top:15px;  
+  /*overflow: auto;*/
+}
+
+.infotext{
+text-align: center;
+width:120px;
+line-height: 30px;
+border: 1px solid black;
+float:left;
+}
+.infotext2{
+ text-align: center;
+ width:120px;
+ line-height: 30px;
+ border: 1px solid black;
+ float:left;
+ height:40px;
+ padding-top:15px;
+ overflow: auto;
+}
+.infotext1{
+text-align: center;
+width:200px;
+line-height:30px;
+border: 1px solid black;
+float:left;
+}
+.infotext11{
+text-align: center;
+width:200px;
+line-height:30px;
+border: 1px solid black;
+float:left;
+height:40px;
+padding-top:15px; 
+overflow:auto; 
+/*overflow:scroll; */
+
+}
+.infoenquiry{
+text-align: center;
+width:120px;
+line-height:30px;
+border: 1px solid black;
+float:left;
+height:40px;
+padding-top:15px; 
+/*overflow:scroll; */
+overflow: auto;
+}
+.search{
+margin-top: 20px;
+/*background-color: red;*/
+width: 70%;
+text-align:right;
+}
